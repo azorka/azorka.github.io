@@ -1804,9 +1804,8 @@ input, select, textarea {
 		.image.cropped {
 			display: block;
 			margin: 0 0 4em 0;
-			width: 400px;
- 		    height: 350px;
-		    overflow: hidden;
+			width: 500px;
+ 		    height: 450px;
 		}
 
 		.image.left {
